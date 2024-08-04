@@ -51,6 +51,7 @@ Technologies
 * [Electron](http://electron.atom.io/)
 * [TypeScript](http://www.typescriptlang.org/)
 * [ReactJS](https://facebook.github.io/react/)
+* Qt/GTK awareness
 
 
 More Screenshots
